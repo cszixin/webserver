@@ -1,0 +1,10 @@
+<html>
+<head><title>hello</title></head>
+<body>
+<form name="form1" action="/cgi-bin/test.cgi" method="POST">
+    <input name="m" size="5">
+    <input name="n" size="5">
+    <input type="submit" value="确定">
+</form>
+</body>
+</html>
